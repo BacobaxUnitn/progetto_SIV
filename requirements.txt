@@ -147,3 +147,9 @@ websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-c
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1724331337528/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1726248574750/work
 zstandard==0.23.0
+
+matplotlib~=3.7.5
+librosa~=0.10.2.post1
+seaborn~=0.13.2
+numpy~=1.24.4
+scipy~=1.10.1
